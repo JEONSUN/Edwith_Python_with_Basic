@@ -38,7 +38,7 @@
 
 4.2 Functions of Our Own
 
-### **5.1 Loops and Iteration
+### **5.1 Loops and Iteration**
 
 5.1 Loops and Iteration
 

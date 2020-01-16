@@ -37,3 +37,26 @@
 4.1 Functions
 
 4.2 Functions of Our Own
+
+### **5.1 Loops and Iteration
+
+5.1 Loops and Iteration
+
+5.2 Definite Loops
+
+5.3 Loop Idioms: What We Do in Loops
+***
+Use of Loop
+
+5.3.1 Counting in a Loop
+
+5.3.2 Summing in a Loop
+
+5.3.3 Finding the Average in a Loop
+
+5.3.4 Filtering in a Loop
+
+5.3.5 Search Using a Boolean Variable
+
+5.3.6 How to fine the smallest value
+***

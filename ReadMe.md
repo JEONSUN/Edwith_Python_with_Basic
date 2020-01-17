@@ -62,4 +62,4 @@ Use of Loop
 ***
 
 
-![screensh](./Certification/certification.pdf)
+![screensh](./Certification/certification.png)

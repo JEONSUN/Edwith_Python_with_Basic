@@ -5,6 +5,9 @@
 
 ## Index
 
+
+
+
 ### 1. Introduction
 
 ***
@@ -17,6 +20,9 @@
 #### 1.4 What Do We Say?
 ***
 
+
+
+
 ### 2. Introduction(Chapter 2)
 
 ***
@@ -24,6 +30,9 @@
 
 #### 2.2 Expressions
 ***
+
+
+
 
 ### 3. Conditional Execution
 
@@ -33,6 +42,9 @@
 #### 3.2 More Conditional Structures
 ***
 
+
+
+
 ### 4. Functions
 
 ***
@@ -40,6 +52,9 @@
 
 #### 4.2 Functions of Our Own
 ***
+
+
+
 
 ### 5.  Loops and Iteration
 
@@ -64,4 +79,5 @@
 > 5.3.6 How to fine the smallest value
 ***
 
+![screensh](./Certification/certification.png)
 
